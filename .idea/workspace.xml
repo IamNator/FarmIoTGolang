@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:cousera" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e677fa2-a59c-47c7-ba10-d34f7c755687" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/FarmIoTGolang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Api(s)/go-rest-api/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../Api(s)/go-rest-api/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/hello/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/../Projects/hello/hello.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/mysql-stuff/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/mysql-stuff/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/mysql-stuff/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/mysql-stuff/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/mysql-stuff/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/mysql-stuff/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/mysql-stuff/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/mysql-stuff/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/mysql-stuff/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/mysql-stuff/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/mysql-stuff/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/mysql-stuff/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/mysql-stuff/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/mysql-stuff/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/mysql-stuff/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/mysql-stuff/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/mysql-stuff/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/mysql-stuff/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/mysql-stuff/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/mysql-stuff/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/mysql-stuff/load_data/load_data.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/mysql-stuff/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../Projects/mysql-stuff/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/mysql-stuff/mysql-stuff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../miniDb" beforeDir="false" afterPath="$PROJECT_DIR$/../miniDb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/img/images.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/img/images0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/img/images1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/img/images2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/img/images4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/img/index.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/img/index0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/img/wall.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/index.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wristwatch_love/pages/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1lF26XVt5lo3hLWf4k74L45WAeQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
